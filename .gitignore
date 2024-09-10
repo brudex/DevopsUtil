@@ -33,6 +33,7 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+.DS_Store
 
 # Visual Studio 2015
 .vs/
